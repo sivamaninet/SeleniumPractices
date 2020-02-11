@@ -10,6 +10,7 @@ public class Array {
 	public static void main(String[] args) {
 		//Merge two Arrays
 		
+		
 		int[] arr1 = { 12,50,77,84,131};
 		int[] arr2=  {32,44,9,89,21};
 		int[] arr3 = new int[arr1.length+arr2.length];
